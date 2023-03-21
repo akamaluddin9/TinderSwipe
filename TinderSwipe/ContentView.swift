@@ -19,7 +19,6 @@ struct ContentView: View {
         "Naksir sama temen di academy?aaaa",
         "Naksir sama mentor di academy?",
         "Nongkrong di the breeze habis academy",
-        
         ]
         .reversed()
     
